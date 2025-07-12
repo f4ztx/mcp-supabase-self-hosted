@@ -1,0 +1,46 @@
+# Dependencias
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Distribución
+dist/
+build/
+migration-data/
+scripts/migration-from-cloud.js
+
+# Logs
+*.log
+logs/
+error.log
+combined.log
+
+# Configuración local
+.env
+.env.local
+.env.production
+
+# Backups
+backups/
+
+# Cobertura de tests
+coverage/
+
+# Archivos temporales
+*.tmp
+*.temp
+.cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
