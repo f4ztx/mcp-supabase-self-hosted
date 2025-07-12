@@ -23,7 +23,7 @@ A Model Context Protocol (MCP) server that provides comprehensive Supabase funct
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/f4ztx/f4ztx-mcp-supabase-self-hosted.git
+   git clone https://github.com/f4ztx/mcp-supabase-self-hosted.git
    cd mcp-supabase-self
    ```
 
